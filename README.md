@@ -11,4 +11,4 @@ Ao final da consulta estarão contidos os dados que especifiquei no código, com
 
 Atualizado para criar um front-end que tenha uma barra de progresso com uma contagem regressiva para o usuário aguardar e ter noção de quanto tempo falta.
 
-Foi criado um instalador com o inno setup para o código em um único arquivo e este estará disponível também aqui.
+Foi criado um instalador com o inno setup para o código em um único arquivo e este estará disponível também aqui, para funcionar se não quiser usar o codigo é necessário apenas instalar esse mysetup.exe.
